@@ -24,6 +24,19 @@ A data analytics project that analyzes job market data to identify trends in job
 🎯 Key Objectives
 
 * Analyze job market trends
+## 📊 Analysis Visualizations
+
+### Salary Distribution
+![Salary Distribution](Screenshots/Salary%20distribution.png)
+
+### Top Jobs
+![Top Jobs](Screenshots/Top%20jobs.png)
+
+### Top Locations
+![Top Locations](Screenshots/Top%20locations.png)
+
+### Top Skills
+![Top Skills](Screenshots/Top%20skills.png)
 * Identify in-demand skills
 * Explore job roles and locations
 * Understand experience-level requirements
